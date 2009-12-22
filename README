@@ -1,0 +1,10 @@
+Encode while uploading proof of concept using node.js
+Todd Troxell <xtat@rapidpacket.com>
+
+
+Requires: ffmpeg, mencoder, codecs, gpac, node.js [tested with 0.1.22]
+
+Also requires a flashplayer if you want to use that-- tested with the jw
+player.
+
+PoC, and not ready for production, but it does work!
